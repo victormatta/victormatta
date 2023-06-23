@@ -2,6 +2,7 @@
 ## I'm a Mobile Developer. 📱
 
 - 📚 I'm a Analysis and systems development student.
+- 🎯 Improving at Flutter | JavaScript
 - 💻 Here you will find some of my projects.
 
 <html>
