@@ -1,6 +1,8 @@
 ## Hello, World! I'm Victor. 👋
+## I'm a Mobile Developer. 📱
 
-- 📚 I'm a Mobile Developer and Analysis and systems development student.
+- 📚 I'm a Analysis and systems development student.
+- 💻 Here you will find some of my projects.
 
 <html>
 <div align="center">
