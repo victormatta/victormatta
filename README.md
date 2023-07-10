@@ -1,5 +1,5 @@
 ## Hello, World! I'm Victor. 👋
-## I'm a Software Developer. 📱
+## I'm a Software Developer. 💻
 
 - 📚 I'm a Analysis and systems development student.
 - 🎯 Improving at PHP | Flutter
