@@ -1,7 +1,8 @@
 ## Hello, World! I'm Victor. 👋
 ## I'm a Software Developer. 💻
 
-- 📚 I'm a Analysis and systems development student.
+- 📚 I'm a Analysis and systems
+- development student.
 - 🎯 Improving at PHP | Flutter
 - 💻 Here you will find some of my projects.
 
