@@ -2,7 +2,7 @@
 ## I'm a Software Developer. 💻
 
 - 📚 I'm a Analysis and systems development student.
-- 🎯 Improving at Flutter | Node
+- 🎯 Improving at Flutter
 - 💻 Here you will find some of my projects.
 
 <html>
